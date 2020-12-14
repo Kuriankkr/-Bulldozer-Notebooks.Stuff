@@ -4,7 +4,9 @@ This project is an outcome of the [**fastai**](https://www.fast.ai/) course that
 The jupyter notebooks present in this repository has all the work I did as a part of the course. It contains an intial **Exploratory Data Analysis (EDA)** of the data, followed by **building the first model**, **understanding the results** and finally **fine tuning the hyperparameters**.The approaches taken, the insights obtained and the possible mistakes that could happen are discussed in detail in my notebook after each section.
 
 # Dataset
-The link for the data is given [here](https://www.kaggle.com/c/bluebook-for-bulldozers/data). The data is sourced from Kaggle and it was part of a competition that was hosted by Kaggle.The dataset has 54 features of bulldozers including the sale price of bulldozers and the predictor variable. The goal behind the project is to build a model that would help predict the sales price of Bulldozers that range from the 1960's - 2011. The testing would be done on dataset from 2012.
+The link for the data is given [here](https://www.kaggle.com/c/bluebook-for-bulldozers/data). The data is sourced from Kaggle and it was part of a competition that was hosted by Kaggle.
+
+The dataset has 54 features of bulldozers including the sale price of bulldozers and the predictor variable. The goal behind the project is to build a model that would help predict the sales price of Bulldozers that range from the 1960's - 2011. The testing would be done on dataset from 2012.
 
 There are 3 main datasets:
 - **Train.csv** is the training set, which contains data through the end of 2011.
