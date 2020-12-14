@@ -18,3 +18,9 @@ The evaluation metric for this competition is the RMSLE (root mean squared log e
 Kaggle provides a data dictionary detailing all of the features of the dataset. This data dictionary can be viewed on Google sheets [here](https://docs.google.com/spreadsheets/d/18ly-bLR8sbDJLITkWG7ozKm8l3RyieQ2Fpgix-beSYI/edit#gid=1021421956)
 
 # Technology Used
+<p>
+  <img width="250" align='left' src="https://github.com/Kuriankkr/Bluebook-for-Bulldozers/blob/master/Images/1_cxfqR8NAj8HGal8CVOZ7hg.png">
+</p>
+<p>
+  <img width="250" align='left' src="https://github.com/Kuriankkr/Bluebook-for-Bulldozers/blob/master/Images/87a50dce-a64d-4747-b152-30f2f13e80ef.png">
+</p>
