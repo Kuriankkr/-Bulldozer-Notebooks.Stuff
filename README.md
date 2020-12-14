@@ -16,3 +16,5 @@ The evaluation metric for this competition is the RMSLE (root mean squared log e
 
 # Features
 Kaggle provides a data dictionary detailing all of the features of the dataset. This data dictionary can be viewed on Google sheets [here](https://docs.google.com/spreadsheets/d/18ly-bLR8sbDJLITkWG7ozKm8l3RyieQ2Fpgix-beSYI/edit#gid=1021421956)
+
+# Technology Used
