@@ -1,5 +1,7 @@
 # Overview
-This project is an outcome of the [fastai](https://www.fast.ai/) course that I had undergone. The course was spread over 9 lectures in which I was taught the logic behind the working of RandomForest Regressors and how it could be applied to a real world dataset(discussed below).  It employs the Random Forest Regressor method with an intial EDA of the Data, followed by Building the first model, and then understanding the results, fine tuning the hyper parameters.The approaches taken, the insights obtained and the possible mistakes that could happen are discussed in detail and I have tried to include those in my notebook as well
+This project is an outcome of the [fastai](https://www.fast.ai/) course that I had undergone. The course was spread over 9 lectures in which I was taught the logic behind the working of RandomForest Regressors and how it could be applied to a real world dataset(discussed below). 
+
+It employs the Random Forest Regressor method with an intial EDA of the Data, followed by Building the first model, and then understanding the results, fine tuning the hyper parameters.The approaches taken, the insights obtained and the possible mistakes that could happen are discussed in detail and I have tried to include those in my notebook as well
 
 # Dataset
 The link for the data is given [here](https://www.kaggle.com/c/bluebook-for-bulldozers/data). The data is sourced from Kaggle and it was part of a competition that was hosted by Kaggle.The dataset has 54 features of bulldozers including the sale price of bulldozers and the predictor variable. The goal behind the project is to build a model that would help predict the sales price of Bulldozers that range from the 1960's - 2011. The testing would be done on dataset from 2012.
